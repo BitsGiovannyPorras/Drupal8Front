@@ -1,4 +1,7 @@
 global-styling:
   css:
-    theme:
-      css/style.css: {}
+   component:
+    css/components/block.css: {}
+    css/components/menu: {}
+   theme:
+    css/base/elements.css: {}

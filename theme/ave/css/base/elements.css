@@ -1,0 +1,21 @@
+#header {
+   /*background-color: #C7D0D6;*/
+   background-color: #33cc33;
+   background-image: none;
+}
+html {
+  height: 100%;
+
+}
+body {
+  min-height: 100%;
+  word-wrap: break-word;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 87.5%;
+  line-height: 1.5;
+  color:#000;
+}
+
+.site-branding__text a{
+ color:#000;
+}
