@@ -1,0 +1,7 @@
+name: 'ejerciciobits'
+type: theme
+base theme: bartik
+description: 'AVE HELP FILE'
+core: 8.x
+libraries:
+ - b_forcontu/global-styling
